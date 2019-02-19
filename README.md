@@ -7,3 +7,9 @@ A public checklist for startup founders: "What happens if you get hit by a bus?
 
 ## Insurance
 * [ ] Do you have key person insurance? ([Ref](https://en.wikipedia.org/wiki/Key_person_insurance))
+
+## Code
+* [ ] Is all your code in version control?
+
+## Design
+* [ ] Are all design files backed up in cloud storage?
