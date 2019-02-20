@@ -22,6 +22,8 @@ A public checklist for startup founders: "What happens if you get hit by a bus?
 
 ## Insurance
 * [ ] Do you have key person insurance? ([Ref](https://en.wikipedia.org/wiki/Key_person_insurance))
+* [ ] Do you have term life insurance for your family?
+* [ ] Do you have disability insurance?
 
 ## Code
 * [ ] Is all your code in version control?
@@ -34,3 +36,5 @@ A public checklist for startup founders: "What happens if you get hit by a bus?
 
 ## Tools
 * [dead.io](https://dead.io/) – "A dead man's switch is a switch that is designed to be activated if the human operator becomes incapacitated" ([Wikipedia](https://en.wikipedia.org/wiki/Dead_man%27s_switch))
+
+
