@@ -31,3 +31,6 @@ A public checklist for startup founders: "What happens if you get hit by a bus?
 
 ## Legal
 * [ ] Access to contracts for ext consultants, freelancers, recruiters, IT, etc
+
+## Tools
+* [dead.io](https://dead.io/) – "A dead man's switch is a switch that is designed to be activated if the human operator becomes incapacitated" ([Wikipedia](https://en.wikipedia.org/wiki/Dead_man%27s_switch))
